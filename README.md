@@ -8,6 +8,7 @@ A Matlab implementation of the moving-window template correlation method for det
 
 
 ========== DESCRIPTION OF METHOD =============================
+
 A full description of the method implemented here can be found in the following Journal article, which is open access:
 
 Louie K, Wilson MA.
